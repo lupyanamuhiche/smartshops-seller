@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619662024894",
+    "project_id": "smartshops-8d4b3",
+    "storage_bucket": "smartshops-8d4b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619662024894:android:7a18bb700b2610d49ebeef",
+        "android_client_info": {
+          "package_name": "com.codeangels.smartshops.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8My6cyRC3xUqpT8zXZMPRWSrxep3wg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619662024894:android:c02685dc78be54239ebeef",
+        "android_client_info": {
+          "package_name": "com.codeangels.smartshops.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8My6cyRC3xUqpT8zXZMPRWSrxep3wg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
